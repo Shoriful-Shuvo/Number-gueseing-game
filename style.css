@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+    box-sizing: border-box;
+}
+
+
+
+
+/* <!-- First player name  --> */
+
+
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+
+.headingOne{
+    line-height: 40px;
+    font-size: 48px;
+   
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+.intfun{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.inputOne{
+    border-radius: 28px;
+    font-size: 22px;
+    padding: 20px ;
+    padding-right: 520px;
+   
+    border: 1px solid rgba(128, 128, 128, 0.589);
+    
+}
+.buttonOne{
+    margin-top: 50px;
+    padding: 20px 35px;
+    background: #7041D3;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    border-radius: 28px;
+}
+.error{
+    background: rgb(247, 12, 12);
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px 20px;
+    font-weight: bold;
+    width: 800px;
+    margin-top: 20px;
+    display: none;
+}
+
+
+
+/* <!-- First player name  --> */
+
+
+
+
+
+/* First player name */
+
+
+.headingTwo{
+    line-height: 40px;
+    font-size: 48px;
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+
+.inputTwo{
+    border-radius: 28px;
+    font-size: 22px;
+    padding: 20px ;
+    padding-right: 520px;
+   
+    border: 1px solid rgba(128, 128, 128, 0.589);
+    
+}
+.buttonTwo{
+    margin-top: 50px;
+    padding: 20px 35px;
+    background: #7041D3;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    border-radius: 28px;
+    ;
+}
+.errorTwo{
+    background: rgb(247, 12, 12);
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px 20px;
+    font-weight: bold;
+    width: 800px;
+    margin-top: 20px;
+    display: none;
+    
+}
+
+.alltwo{
+    display: none;
+}
+
+
+
+/* First player name */
+
+
+
+
+
+/* First player input */
+.headingThree{
+    line-height: 40px;
+    font-size: 48px;
+    
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+
+.inputThree{
+    border-radius: 28px;
+    font-size: 22px;
+    padding: 20px ;
+    padding-right: 520px;
+   
+    border: 1px solid rgba(128, 128, 128, 0.589);
+    
+}
+.buttonThree{
+    margin-top: 50px;
+    padding: 20px 35px;
+    background: #7041D3;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    border-radius: 28px;
+    ;
+}
+.errorThree{
+    background: rgb(247, 12, 12);
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px 20px;
+    font-weight: bold;
+    width: 800px;
+    margin-top: 20px;
+    display: none;
+    
+}
+
+.allthree{
+    display: none;
+}
+
+/* first player input */
+
+
+
+
+
+/* second player input */
+
+.headingFour{
+    line-height: 40px;
+    font-size: 48px;
+    
+    margin-top: 100px;
+    font-weight: 700;
+}
+
+
+.inputFour{
+    border-radius: 28px;
+    font-size: 22px;
+    padding: 20px ;
+    padding-right: 520px;
+   
+    border: 1px solid rgba(128, 128, 128, 0.589);
+    
+}
+.buttonFour{
+    margin-top: 50px;
+    padding: 20px 35px;
+    background: #7041D3;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    border-radius: 28px;
+    ;
+}
+.errorFour{
+    background: rgb(247, 12, 12);
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    padding: 15px 20px;
+    font-weight: bold;
+    width: 800px;
+    margin-top: 20px;
+    display: none;    
+}
+.allFour{
+    display: none;
+}
+
+.Chance{
+    padding-top: 30px;
+}
+/* second player input */
+
+/* <!-- First player Winnner  --> */
+
+
+.headingSix{
+    color: gold;
+    padding-top: 100px;
+    font-size: 64px;
+    
+}
+
+/* <!-- First player Winnner  --> */
+
+.headingFive{
+    color:gold;
+    padding-top: 100px;
+    font-size: 64px;
+
+}
+
+
